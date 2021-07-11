@@ -1,0 +1,292 @@
+*{margin:0;padding:0;}
+ul{
+	list-style-type:none;
+}
+a{
+	text-decoration:none;
+}
+body{
+	font-width:bold;
+	font-family:arial;
+	margin:20px auto;
+}
+.boro{
+	width:100%;
+}
+.bacca{
+	width:960px;
+	height:100%;
+	margin:0 auto;
+}
+.tlc{
+	text-align:center;
+}
+.tlj{
+	text-align:justify;
+}
+/*
+	**************************************
+	**************************************
+	**************************************
+	**************************************
+*/
+.boro{
+	background-image:url("img/bg.jpg");
+	background-repeat:no-repeat;
+	width:100%;
+	height:500px;
+	background-size:cover;
+	background-position:center;
+}
+.logo{
+	width:960px;
+	height:102px;
+	border-bottom:3px solid white;
+}
+.logo h1{
+	float:left;
+	padding:33px 29px;
+	font-family:Matura MT Script Capitals;
+	font-weight:bold;
+	color:#EA2027;
+}
+.logo ul li{
+	float:left;
+	height:40px;
+}
+.logo ul li:first-child{
+	margin-left:587px;
+
+}
+.logo ul li a img{
+	width: 40px;
+    height: 39px;
+    padding: 30px 8px;
+}
+.menu{
+	width:960px;
+	height:100px;
+}
+.menu ul li{
+	float:left;
+	width:90px;
+	height:100px;
+	padding:19px 10px;
+	text-align:center;
+}
+.menu ul li:first-child{
+	margin-left:-110px;
+}
+.menu ul li a{
+	color:#EA2027;
+	font-weight:bold;
+}
+.ul_bottom{
+	padding-top:20px;
+	height:200px;
+	color:white;
+	text-align:center;
+}
+span{
+	color:red;
+}
+.ul_bottom h3{
+	padding:16px 0px;
+	font-width:bold;
+}
+.ul_bottom button{
+	background:none;
+	width:153px;
+	height:42px;
+	font-size:20px;
+	border:2px solid #EA2027;
+	color:white;
+	font-weight:bold;
+}
+.content_o{
+	height:121px;
+	font-weight:bold;
+	text-align:center;
+}
+.content_o h1{
+	padding:14px 0px;
+} 
+.content_mother{
+	height:250px;
+}
+.content_v{
+	float:left;
+	width:300px;
+	height:250px;
+	text-align:center;
+	padding:0px 10px;
+}
+.content_v img{
+	padding:27px 0px;
+}
+.content_v h3{
+	padding-bottom:10px;
+}
+.boro_content{
+	background:#dcdde1;
+	height:400px;
+}
+.parent_content{
+	height:399px;
+}
+.article_o{
+	height: 121px;
+    font-weight: bold;
+    text-align: center;
+}
+.article_o h1{
+	padding: 14px 0px;
+	font-size: 2em;
+}
+.for_img{
+	height:379px;
+}
+.pt{
+	width:279px;
+	height:230px;
+	float:left;
+	margin:0px 20px;
+}
+.pt img{
+	float:left;
+	width:279px;
+	height:159px;
+}
+.pt h1{
+	text-align:center;
+	margin-top:194px;
+}
+.footer_top{
+	height:250px;
+	text-align:center;
+	font-weight:bold;
+}
+.footer_top h1{
+	padding-top:70px;
+	padding-bottom:15px;
+}
+.footer_top p{
+	margin-bottom:26px;
+}
+.footer_top button{
+	color:white;
+	background:#EE5A24;
+	border:none;
+	width:115px;
+	height:35px;
+}
+.footer_boro{
+	background:#2c3e50;
+	width:100%;
+	height:400px;
+}
+.bacca .footer{
+	background:black;
+	width:960px;
+	height:400px;
+}
+.small{
+	float:left;
+	width:220px;
+	height:400px;
+	color:white;
+}
+.small h1{
+	font-size:25px;
+	text-align:center;
+	padding:63px 0px;
+}
+.small p{
+	padding:0px 15px;
+	font-weight:bold;
+}
+.lg{
+	float:left;
+	width:300px;
+	height:400px;
+	color:white;
+}
+.lg h1{
+	font-size:30px;
+	color:white;
+	float:left;
+	padding-left:22px;
+	padding-top:90px;
+	font-family:Matura MT Script Capitals;
+}
+.lg ul li{
+	float:left;
+	padding:10px 2px;
+	padding-top:90px;
+}
+.lg ul li:first-child{
+	margin-left:70px;
+}
+.lg img{
+	width:30px;
+	height:30px;
+}
+.lg p{
+	padding:0px 6px;
+	color:white;
+	font-weight:bold;
+	margin-top:155px;
+	text-align:justify;
+}
+.quick ul{
+	list-style-type:square;
+	padding-left:60px;
+}
+.quick ul li{
+	float:none;
+}
+.quick ul li a{
+	color:white;
+	font-weight:bold;
+}
+.last p{
+	text-align:justify;
+}
+.last input[type=email]{
+	width:100px;
+	height:23px;
+	margin:8px 14px;
+	color:black;
+	font-weight:bold;
+	border:none;
+}
+.last button{
+	width:62px;
+	height:25px;
+	border:none;
+	color:black;
+	font-weight:bold;
+}
+.boro_last_footer{
+	background:#2c3e50;
+	width:100%;
+	height:40px;
+}
+.bacca_last_footer{
+	background:#2c3e50;
+	color:white;
+	width:960px;
+	height:40px;
+	margin:0 auto;
+	
+}
+.border{
+	width:960px;
+	height:45px;
+	border-top:2px solid white;
+}
+.bacca_last_footer h3{
+	text-align:center;
+	font-size:17px;
+	padding:7px 20px;
+}
